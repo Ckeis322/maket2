@@ -1,0 +1,42 @@
+.intoduction__container{
+    display: flex;
+    align-items: center;
+}
+
+.introduction__image{ 
+    img{
+        width: 411px;
+        height: 100%;
+    }
+}
+
+
+.introduction__content{
+    padding-top: 100px;
+    padding-left: 100px;
+    background-color: var(--tiber);
+    height: 560px;
+}
+
+.introduction__title{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 56px;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.introduction__text{
+    margin-bottom: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--white);
+}
+
+.introduction__btn{
+    padding: 15px 25px;
+    background-color: var(--white);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--tiber);
+}

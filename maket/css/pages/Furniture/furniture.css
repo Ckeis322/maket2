@@ -1,0 +1,21 @@
+.Furniture__since{
+    width: 819.7px;
+    height: 122.56px;
+}
+
+.Furniture__since-title{
+    width: 370px;
+    height: 52px;
+    font-weight: 700px;
+    size: 32px;
+    line-height: 52px;
+    align-items: center;
+}
+
+.Furniture__since-text{
+    width: 819.7px;
+    height: 50.56px;
+    font-weight: 400px;
+    size: 20px;
+    line-height: 27px;
+}

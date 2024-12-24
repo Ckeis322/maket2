@@ -1,0 +1,145 @@
+.about-us__container{
+    display: flex;
+    align-items: center;
+    padding-bottom: 140px;
+}
+
+.about-us__image{
+    width: 596px;
+    height: 577px;
+}
+
+.about-us__info{
+    width: 436.73px;
+    height: 517px;
+    padding-left: 100px;
+    padding-top: 46.5px;
+    padding-bottom: 48.71px;
+}
+
+.about-us__info-point1{
+    width: 436px;
+    height: 135px;
+}
+
+.about-us__info-title{
+    width: 407.77px;
+    height: 40px;
+    font-weight: 700px;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.about-us__info-text{
+    width: 436.73px;
+    height: 75px;
+    margin-top: 20px;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about-us__info-bestquality{
+    display: flex;
+    align-items: center;
+    width:376.21px;
+    height: 92px;
+    padding-top: 40px;
+}
+
+.about-us__info-bestqualityimg{
+    width: 50px;
+    height: 50px;
+}
+
+.about-us__info-best{
+    width: 306.21px;
+    height: 92px;
+    padding-left: 28px;
+    padding-top: 23px;
+}
+
+.about-us__info-title2{
+    width: 129px;
+    height: 26px;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 26px;
+    padding-bottom: 14px;
+}
+
+.about-us__info-text2{
+    width: 306.21px;
+    height: 52px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26px;
+    padding-top: 14px;
+}
+
+.about-us__info-secure{
+    display: flex;
+    align-items: center;
+    width: 341.74px;
+    height: 95px;
+    padding-top: 90px;
+}
+
+.about-us__info-secureimg{
+    width: 50px;
+    height: 50px;
+}
+
+.about-us__info-point2{
+    width: 271.74px;
+    height: 95px;
+    padding-left: 28px;
+    padding-top: 23px;
+}
+
+.about-us__info-title3{
+    width: 131px;
+    height: 27px;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.about-us__info-text3{
+    width: 271.74px;
+    height: 54px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 14px;
+}
+
+.about-us__info-freeshopping{
+    display: flex;
+    align-items: center;
+    width: 341.83px;
+    height: 95px;
+    padding-top: 120px;
+}
+
+.about-us__info-freeshoppingimg{
+    width: 50px;
+    height: 50px;
+}
+
+.about-us__info-title4{
+    width: 170px;
+    height: 27px;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 27px;
+}
+.about-us__info-text4{
+    width: 271.83px;
+    height: 54px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 14px;
+}
+
